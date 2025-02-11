@@ -1,1 +1,26 @@
-{}
+{
+  "licenses": {
+    "user_001": {
+      "key": "sg_8zr781g81zfg_91zh72gf287g_7fg28g8g92hfg",
+      "security_key": "uwgh8379gt387g3873gh",
+      "owner": "Kaki",
+      "owner_dc": "123456789012345678",
+      "ip": "192.168.1.1",
+      "purchase_date": "2025-02-11",
+      "expiration_date": "2025-06-11",
+      "blacklisted": false,
+      "ban_reason": ""
+    },
+    "user_002": {
+      "key": "sg_82tzf792tf827fg_82zh297g29_8g89gzh89gzw8",
+      "security_key": "óizg72gt2gu2uighiugh3a",
+      "owner": "Kaki_02",
+      "owner_dc": "123456789012345678",
+      "ip": "192.168.1.1",
+      "purchase_date": "2025-02-11",
+      "expiration_date": "2025-06-11",
+      "blacklisted": false,
+      "ban_reason": ""
+    }
+  }
+}
